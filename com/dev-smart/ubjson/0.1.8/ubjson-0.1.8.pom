@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.dev-smart</groupId>
+  <artifactId>ubjson</artifactId>
+  <version>0.1.8</version>
+  <name>ubjson</name>
+  <description>UBJSON lib for Java</description>
+  <url>http://github.com/dinocore1/ubjson</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://github.com/dinocore1/ubjson/blob/master/LICENSE.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>psoucy</id>
+      <name>Paul Soucy</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:dinocore1/ubjson.git</connection>
+    <developerConnection>scm:git@github.com:dinocore1/ubjson.git</developerConnection>
+    <url>scm:git@github.com:dinocore1/ubjson.git</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.11</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>

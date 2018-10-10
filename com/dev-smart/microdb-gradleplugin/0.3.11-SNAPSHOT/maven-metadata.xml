@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.dev-smart</groupId>
+  <artifactId>microdb-gradleplugin</artifactId>
+  <version>0.3.11-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170614.220007</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170614220007</lastUpdated>
+  </versioning>
+</metadata>

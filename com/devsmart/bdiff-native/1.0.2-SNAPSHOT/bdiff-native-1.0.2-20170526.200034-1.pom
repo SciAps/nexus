@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.devsmart</groupId>
+  <artifactId>bdiff-native</artifactId>
+  <version>1.0.2-SNAPSHOT</version>
+  <name>bdiff-native</name>
+  <description>Binary diff library native</description>
+  <url>http://github.com/dinocore1/bdiff</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://github.com/dinocore1/ubjson/blob/master/LICENSE.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>psoucy</id>
+      <name>Paul Soucy</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:dinocore1/bdiff.git</connection>
+    <developerConnection>scm:git@github.com:dinocore1/bdiff.git</developerConnection>
+    <url>scm:git@github.com:dinocore1/bdiff.git</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.devsmart</groupId>
+      <artifactId>bdiff</artifactId>
+      <version>1.0.2-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

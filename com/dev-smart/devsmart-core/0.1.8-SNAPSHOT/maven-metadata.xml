@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.dev-smart</groupId>
+  <artifactId>devsmart-core</artifactId>
+  <version>0.1.8-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170321.164934</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20170321164934</lastUpdated>
+  </versioning>
+</metadata>

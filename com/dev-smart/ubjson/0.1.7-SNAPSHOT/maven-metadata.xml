@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.dev-smart</groupId>
+  <artifactId>ubjson</artifactId>
+  <version>0.1.7-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180423.132602</timestamp>
+      <buildNumber>5</buildNumber>
+    </snapshot>
+    <lastUpdated>20180426085424</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>0.1.7-20180423.132602-5</value>
+        <updated>20180423132602</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.1.7-20180423.132602-5</value>
+        <updated>20180423132602</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.7-20180423.132602-5</value>
+        <updated>20180423132602</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.7-20180423.132602-5</value>
+        <updated>20180423132602</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

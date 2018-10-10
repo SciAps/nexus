@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.dev-smart</groupId>
+  <artifactId>microdb-runtime</artifactId>
+  <version>0.3.7-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160823.192344</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160823192344</lastUpdated>
+  </versioning>
+</metadata>
