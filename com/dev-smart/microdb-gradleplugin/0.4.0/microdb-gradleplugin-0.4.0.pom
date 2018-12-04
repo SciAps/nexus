@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.dev-smart</groupId>
   <artifactId>microdb-gradleplugin</artifactId>
-  <version>0.4.2</version>
+  <version>0.4.0</version>
   <name>microdb-gradleplugin</name>
   <description>Gradle Plugin for MicroDb</description>
   <url>http://github.com/dinocore1/MicroDb</url>
@@ -30,7 +30,7 @@
     <dependency>
       <groupId>com.dev-smart</groupId>
       <artifactId>microdb-generator</artifactId>
-      <version>0.4.2</version>
+      <version>0.4.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
