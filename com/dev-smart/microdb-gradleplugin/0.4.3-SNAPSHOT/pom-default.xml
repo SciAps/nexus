@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.dev-smart</groupId>
+  <artifactId>microdb-gradleplugin</artifactId>
+  <version>0.4.3-SNAPSHOT</version>
+  <name>microdb-gradleplugin</name>
+  <description>Gradle Plugin for MicroDb</description>
+  <url>http://github.com/dinocore1/MicroDb</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://github.com/dinocore1/MicroDb/blob/master/LICENSE.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>psoucy</id>
+      <name>Paul Soucy</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:dinocore1/MicroDb.git</connection>
+    <developerConnection>scm:git@github.com:dinocore1/MicroDb.git</developerConnection>
+    <url>scm:git@github.com:dinocore1/MicroDb.git</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.dev-smart</groupId>
+      <artifactId>microdb-generator</artifactId>
+      <version>0.4.3-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.tools.build</groupId>
+      <artifactId>gradle</artifactId>
+      <version>2.1.2</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
