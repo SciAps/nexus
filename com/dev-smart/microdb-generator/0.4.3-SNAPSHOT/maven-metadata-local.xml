@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.dev-smart</groupId>
+  <artifactId>microdb-generator</artifactId>
+  <version>0.4.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20190528145025</lastUpdated>
+  </versioning>
+</metadata>

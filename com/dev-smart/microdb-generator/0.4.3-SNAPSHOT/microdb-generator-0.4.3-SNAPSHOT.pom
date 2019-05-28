@@ -52,6 +52,12 @@
       <scope>test</scope>
     </dependency>
     <dependency>
+      <groupId>com.dev-smart</groupId>
+      <artifactId>microdb-runtime</artifactId>
+      <version>0.4.3-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.squareup</groupId>
       <artifactId>javapoet</artifactId>
       <version>1.2.0</version>
@@ -67,12 +73,6 @@
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-classic</artifactId>
       <version>1.0.9</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.dev-smart</groupId>
-      <artifactId>microdb-runtime</artifactId>
-      <version>0.4.3-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
